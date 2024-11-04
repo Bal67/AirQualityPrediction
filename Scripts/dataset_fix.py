@@ -16,5 +16,5 @@ for item in feed.entries:
     print("\nTitle:", item.title)
     print("Link:", item.link)
     print("Description:", item.description)
-    print("Published Date:", item.published)
+    #print("Published Date:", item.published)
 
